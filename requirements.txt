@@ -1,0 +1,13 @@
+gradio
+requests
+beautifulsoup4
+pandas
+faiss-cpu
+sentence-transformers
+langchain
+langchain-community
+selenium 
+webdriver-manager
+bs4 
+
+
