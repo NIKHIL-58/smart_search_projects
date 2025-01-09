@@ -76,7 +76,7 @@ Ensure you have Python 3.8 or later installed on your system.
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/course-search-engine.git
+   git clone https://github.com/NIKHIL-58/smart_search_projects.git
    cd course-search-engine
    ```
 
@@ -146,7 +146,7 @@ Content: Learn Python for data science with hands-on projects.
 
 ## 🖼️ Screenshots
 
-![Gradio Interface](https://img.icons8.com/color/96/000000/search.png)
+![Gradio Interface](https://github.com/NIKHIL-58/smart_search_projects/blob/main/Screenshot%20from%202025-01-09%2015-17-24.png)
 
 *Sample Gradio interface for the Course Search Engine.*
 
@@ -175,7 +175,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Nikhil Dubey**
 
 [![GitHub](https://img.icons8.com/fluent/48/000000/github.png)](https://github.com/your-username)
 [![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://linkedin.com/in/your-profile)
