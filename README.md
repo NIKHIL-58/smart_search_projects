@@ -140,7 +140,7 @@ Description: Learn Python for data science with hands-on projects.
 
 Sample Gradio interface for the Course Search Engine:
 
-![Gradio Interface](Screenshot from 2025-01-10 11-38-47.png)
+![Gradio Interface](https://github.com/NIKHIL-58/smart_search_projects/blob/main/Screenshot%20from%202025-01-10%2011-38-47.png)
 
 ## 🏆 Future Enhancements
 
